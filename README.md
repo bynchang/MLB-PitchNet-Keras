@@ -4,4 +4,4 @@ The data is scraped from the baseball website <a href="https://baseballsavant.ml
 
 The neural network takes three continuous input: the release speed, horizontal movement, and vertical movement of a pitch, and one categorical input: the pitcher's ID, which is fed into an embedding layer.
 
-You can view the notebook [here](https://nbviewer.jupyter.org/github/bynchang/MLB-PitchNet-Keras/blob/master/pitchnet.ipynb).
+You can view the notebook [here](https://nbviewer.jupyter.org/github/bynchang/MLB-PitchNet-Keras/blob/master/pitchnet.html).
